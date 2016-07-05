@@ -1,16 +1,16 @@
-{
+export default {
   drawerTitle: {
-    notification: '',
+    notification: '通知',
   },
   message: {
-    todayAt: (options) => `??@${options.time}`,
+    todayAt: (options) => `今天@${options.time}`,
   },
   messagesCentre: {
-    loadMore: '',
-    prefs: '',
+    loadMore: '加载更多通知',
+    prefs: '通知偏好设定',
   },
   preferencesCentre: {
-    byEmail: '',
-    prefs: '',
+    byEmail: '把通知发送到我的邮箱',
+    prefs: '个人设置',
   }
 }
