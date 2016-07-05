@@ -1,8 +1,8 @@
-{
+export default {
   login: {
     appStore: 'https://itunes.apple.com/hk/app/gogovan/id708390467?mt=8&ign-mpt=uo%3D4',
     customerHotline: 'CUSTOMER HOTLINE',
-    "customerHotlineNumber": 39527111,
+    customerHotlineNumber: '39527111',
     emailPlaceholder: 'Your email',
     enterprise: 'Enterprise',
     fb: 'https://www.facebook.com/gogovanhk',

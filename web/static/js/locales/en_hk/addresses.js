@@ -1,4 +1,4 @@
-{
+export default {
   edit: {
     editAddress: 'Edit Address',
     pageHeader: 'ADDRESS BOOK > EDIT CONTACT',

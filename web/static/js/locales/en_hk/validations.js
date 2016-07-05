@@ -1,4 +1,4 @@
-{
+export default {
   errors: {
     failedToComputeLatLon: (options) => `Failed to compute the latitude/longitude of ${options.field}.`,
     invalidEmailFormat: 'Invalid email format.',

@@ -1,7 +1,7 @@
-{
+export default {
   time: {
-    hours: '',
-    minutes: '',
-    seconds: '',
+    hours: '小時',
+    minutes: '分鐘',
+    seconds: '秒',
   }
 }

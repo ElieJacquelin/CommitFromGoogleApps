@@ -1,4 +1,4 @@
-{
+export default {
   addressBook: 'ADDRESS BOOK',
   dropdown: {
     aboutGGV: 'ABOUT GOGOVAN',
@@ -14,10 +14,10 @@
   tnc: {
     agree: 'I agree and accept the terms and conditions mentioned above',
     content: `<p>
-  	These terms and conditions apply to your use of the GoGoVan mobile application and other related online and offline platform (?<strong>GoGoVan</strong>?), as well as to all information, recommendations and/or Services (defined below) provided to you by means of your use of GoGoVan.
+  	These terms and conditions apply to your use of the GoGoVan mobile application and other related online and offline platform (“<strong>GoGoVan</strong>”), as well as to all information, recommendations and/or Services (defined below) provided to you by means of your use of GoGoVan.
   	</p>
   	<p>
-    	GoGoVan is powered and provided by GoGo Tech Limited, a Hong Kong limited liability company (?<strong>we</strong>?, ?<strong>us</strong>?, ? <strong>our</strong>? or the ?<strong>Company</strong>?).
+    	GoGoVan is powered and provided by GoGo Tech Limited, a Hong Kong limited liability company (“<strong>we</strong>”, “<strong>us</strong>”, “ <strong>our</strong>” or the “<strong>Company</strong>”).
   	</p>
   	<p>
     	Please review these terms and conditions carefully. By using GoGoVan or the Services, you acknowledge and agree that these terms and conditions and our privacy policy are binding on you. For more information on how we will use your personal data, please see our privacy policy. If you do not agree with these terms and conditions and our privacy policy, do not install the GoGoVan mobile application, delete it and do not use GoGoVan or the Services.
@@ -31,22 +31,22 @@
     	(a) In these terms and conditions, the following definitions and rules of interpretation apply unless otherwise defined or the context requires otherwise:
   	</p>
   	<p>
-    	?<strong>Advertisement</strong>? means any promotion messages and information that may appear on your mobile device during the operation of the App;
+    	“<strong>Advertisement</strong>” means any promotion messages and information that may appear on your mobile device during the operation of the App;
   	</p>
   	<p>
-    	?<strong>Hong Kong</strong>? means Hong Kong Special Administrative Region of the People?s Republic of China;
+    	“<strong>Hong Kong</strong>” means Hong Kong Special Administrative Region of the People’s Republic of China;
   	</p>
   	<p>
-    	?<strong>Participating Providers</strong>? means the drivers or vehicle operators whose transport and logistics services are offered and may be requested through the use of GoGoVan;
+    	“<strong>Participating Providers</strong>” means the drivers or vehicle operators whose transport and logistics services are offered and may be requested through the use of GoGoVan;
   	</p>
   	<p>
-    	?<strong>Services</strong>? means any and all services provided by us to you by means of your use of GoGoVan, which include the services described in clause 3(a);
+    	“<strong>Services</strong>” means any and all services provided by us to you by means of your use of GoGoVan, which include the services described in clause 3(a);
   	</p>
   	<p>
-    	?<strong>App</strong>? means the ?GoGoVan? mobile application supplied by us and downloaded and installed by you on your mobile device through which you may obtain the Services; and
+    	“<strong>App</strong>” means the “GoGoVan” mobile application supplied by us and downloaded and installed by you on your mobile device through which you may obtain the Services; and
   	</p>
   	<p>
-    	?<strong>Terms</strong>? means these terms and conditions, which may be amended and supplemented by us from time to time in accordance with clause 10.
+    	“<strong>Terms</strong>” means these terms and conditions, which may be amended and supplemented by us from time to time in accordance with clause 10.
   	</p>
   	<p>
     	(b) Headings are for convenience only and do not affect interpretation. The singular includes the plural and the masculine shall include the feminine and neuter and vice versa.
@@ -69,7 +69,7 @@
     	(c) You must not
     	<br>(i) license, sublicense, sell, resell, transfer, assign, distribute or otherwise commercially exploit or make available to any third party the Services or the App in any way;
     	<br>(ii) modify or make derivative works based upon the Services or App;
-    	<br>(iii) create Internet ?links? to the Services or ?frame? or ?mirror? any App on any other server or wireless or Internet-based device;
+    	<br>(iii) create Internet “links” to the Services or “frame” or “mirror” any App on any other server or wireless or Internet-based device;
     	<br>(iv) reverse engineer or access the App in order to
     	<br>(1) design or build a competitive product or service,
     	<br>(2) design or build a product using similar ideas, features, functions or graphics of the Services or App, or
@@ -169,7 +169,7 @@
     	<strong>Disclaimers</strong>
   	</p>
   	<p>
-    	(a) The App is provided to you on an ?as is? basis. We do not guarantee that the App is compatible with your mobile device or that (the contents of) the App and our website are free of errors, defects, malware and viruses or that the App and our website are correct, up to date and accurate.
+    	(a) The App is provided to you on an “as is” basis. We do not guarantee that the App is compatible with your mobile device or that (the contents of) the App and our website are free of errors, defects, malware and viruses or that the App and our website are correct, up to date and accurate.
   	</p>
   	<p>
     	(b) We do not warrant and accept no liability in connection with the availability of the Services, the availability of transport and logistics services from the Participating Providers through the use of the Services, the accuracy of the information or data provided as part of the Services or the quality, suitability and timeliness of the services of the Participating Providers.
@@ -230,6 +230,6 @@
 
 `,
     proceed: 'PROCEED',
-    title: 'Terms ? Conditions',
+    title: 'Terms ＆ Conditions',
   }
 }

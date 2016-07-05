@@ -1,5 +1,5 @@
-{
+export default {
   auth: {
-    restricted: '???????',
+    restricted: '限制進入此頁面',
   }
 }

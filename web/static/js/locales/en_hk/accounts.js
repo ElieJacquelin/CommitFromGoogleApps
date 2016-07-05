@@ -1,4 +1,4 @@
-{
+export default {
   edit: {
     editUser: 'Edit User',
     pageHeader: 'ACCOUNT MANANGEMENT > EDIT USER',
@@ -36,7 +36,7 @@
     detailAddress: 'FLOOR / ROOM',
     editProfile: 'EDIT PROFILE',
     email: 'EMAIL',
-    "false": false,
+    false: 'FALSE',
     master: 'Master',
     name: 'NAME',
     pageHeader: 'ACCOUNT MANAGEMENT',
@@ -44,7 +44,7 @@
     queryPlaceholder: 'Name, branch, email, etc.',
     streetAddress: 'STREET ADDRESS',
     subUser: 'Sub User',
-    "true": true,
+    true: 'TRUE',
     users: 'Users',
     showAll: 'Show all',
     search: 'SEARCH:',

@@ -1,16 +1,16 @@
-{
+export default {
   drawerTitle: {
-    notification: '',
+    notification: 'NOTIFICATIONS',
   },
   message: {
     todayAt: (options) => `TODAY @ ${options.time}`,
   },
   messagesCentre: {
-    loadMore: '',
-    prefs: '',
+    loadMore: 'LOAD MORE NOTIFICATIONS',
+    prefs: 'NOTIFICATION PREFERENCES',
   },
   preferencesCentre: {
-    byEmail: '',
-    prefs: '',
+    byEmail: 'Receive Notification by email',
+    prefs: 'PREFERENCES',
   }
 }

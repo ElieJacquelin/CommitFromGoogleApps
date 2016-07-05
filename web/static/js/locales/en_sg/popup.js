@@ -1,8 +1,8 @@
-{
+export default {
   merge: {
-    dismissAll: '',
-    notifStatement: '',
-    seeAll: '',
+    dismissAll: 'DISMISS ALL',
+    notifStatement: (options) => `There are ${options.count} more new notifications`,
+    seeAll: 'SEE ALL',
   },
   message: {
     dismiss: 'DISMISS',

@@ -1,4 +1,4 @@
-{
+export default {
   addressEdit: {
     destination: 'DESTINATION*',
     detailAddress: 'FLOOR / ROOM',

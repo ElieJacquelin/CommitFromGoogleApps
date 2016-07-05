@@ -1,4 +1,4 @@
-{
+export default {
   button: {
     chooseFromComputer: 'CHOOSE FROM COMPUTER',
     cancel: 'CANCEL',

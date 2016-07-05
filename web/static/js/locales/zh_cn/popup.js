@@ -1,11 +1,11 @@
-{
+export default {
   merge: {
-    dismissAll: '',
-    notifStatement: (options) => `?? ${options.count} ????`,
-    seeAll: '',
+    dismissAll: '全部关闭',
+    notifStatement: (options) => `你有 ${options.count} 个新通知`,
+    seeAll: '显示全部',
   },
   message: {
-    dismiss: '??',
-    todayAt: (options) => `??@${options.time}`,
+    dismiss: '关闭',
+    todayAt: (options) => `今天@${options.time}`,
   }
 }
