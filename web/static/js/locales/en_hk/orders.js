@@ -1,4 +1,4 @@
-{
+export default {
   dialog: {
     badAttitude: 'Bad attitude',
     branch: 'BRANCH:',
@@ -90,7 +90,7 @@
     },
     basicInfoSplitOptions: {
       mudou9: '9 TON TRUCK',
-      mudou9Description: 'Carries max. 5 passengers; max. load 3-3.5 tons; available storage space dimensions: 19?-21? length, 6? height, 6? width.',
+      mudou9Description: 'Carries max. 5 passengers; max. load 3-3.5 tons; available storage space dimensions: 19’-21’ length, 6’ height, 6’ width.',
       sedan: '',
       sedanDescription: '',
       damas: '',
@@ -109,7 +109,7 @@
       sameRouteStatement: 'Every vehicle follows the same route and locations',
       shareTheSameRoute: 'SHARE THE SAME ROUTE',
       mudou: '5.5 TON TRUCK',
-      mudouDescription: 'Carries max. 5 passengers; max. load 1-1.5 tons; available storage space dimensions: 17?-19? length, 6? height, 6? width.',
+      mudouDescription: 'Carries max. 5 passengers; max. load 1-1.5 tons; available storage space dimensions: 17’-19’ length, 6’ height, 6’ width.',
       splitRoute: 'SPLIT ROUTE',
       splitRouteStatement: 'Automatically optimize and split routes',
       ton1: '',
@@ -117,7 +117,7 @@
       ton1_2_and_ton1_4Description: '',
       ton1Description: '',
       van: 'VAN',
-      vanDescription: 'Carries max. 5 passengers; max. load 700kg ; available storage space dimensions: 6? length, 4? height, and 4? width.',
+      vanDescription: 'Carries max. 5 passengers; max. load 700kg ; available storage space dimensions: 6’ length, 4’ height, and 4’ width.',
       vehicleType: 'VEHICLE TYPE',
       sbread: '',
       mbread: '',
