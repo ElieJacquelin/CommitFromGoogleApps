@@ -1,4 +1,4 @@
-{
+export default {
   addressBoxFields: {
     addressTypeReceiver: 'Receiver',
     addressTypeSender: 'Sender',
@@ -11,6 +11,7 @@
     receiver: 'RECEIVER',
     sender: 'SENDER*',
     region: 'REGION*',
+    parcelId: 'PARCEL ID',
     addressType: 'Address Type',
   },
   goodsTypes: {
