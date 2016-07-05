@@ -1,18 +1,18 @@
-{
-  addressBook: '',
+export default {
+  addressBook: 'ADDRESS BOOK',
   dropdown: {
-    aboutGGV: '',
-    accountMgmt: '',
-    contactUs: '',
-    corporateProfile: '',
-    help: '',
-    logout: '',
-    tnc: '',
+    aboutGGV: 'ABOUT GOGOVAN',
+    accountMgmt: 'ACCOUNT MANAGEMENT',
+    contactUs: 'CONTACT US',
+    corporateProfile: 'CORPORATE PROFILE',
+    help: 'HELP',
+    logout: 'LOGOUT',
+    tnc: 'TERMS AND CONDITIONS',
   },
-  orderMgmt: '',
-  placeOrder: '',
+  orderMgmt: 'ORDER MANAGEMENT',
+  placeOrder: 'PLACE A ORDER',
   tnc: {
-    agree: '',
+    agree: 'I agree and accept all the terms and conditions mentioned above.',
     content: `<p style="text-align:center"><strong>STANDARD TERMS &amp; CONDITIONS</strong></p>
 
   	<p style="text-align:center"><strong>(&ldquo;Terms and Conditions&rdquo;)</strong></p>
@@ -159,7 +159,7 @@
   	<p style="margin-left:40px">The Terms and Conditions shall be governed by and construed in accordance with the laws of Singapore.&nbsp; Customer irrevocably submits to the non-exclusive jurisdiction of the courts of Singapore as regards any dispute or matter arising under the Terms and Conditions.</p>
 
 `,
-    proceed: '',
-    title: '',
+    proceed: 'PROCEED',
+    title: 'Terms ＆ Conditions',
   }
 }
