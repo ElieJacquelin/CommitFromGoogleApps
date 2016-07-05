@@ -1,0 +1,18 @@
+{
+  errors: {
+    failedToComputeLatLon: (options) => `????${options.field}??/??`,
+    invalidEmailFormat: '',
+    invalidFields: '?????',
+    invalidNumberFormat: '',
+    invalidOrder: '????????????????',
+    invalidPhoneNumber: '',
+    invalidUsernameOrPassword: '????????',
+    missingField: '????',
+    passwordMismatch: '?????',
+  },
+  fields: {
+    address: '',
+    contactName: '',
+  },
+  phoneRegexp: /^[0-9]{11}$/,
+}
