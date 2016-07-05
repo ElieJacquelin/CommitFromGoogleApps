@@ -1,4 +1,4 @@
-{
+export default {
   contactUs: 'Please email us or call GoGoVan at 3952 7111 to inquire about any questions you may have that are not mentioned above.',
   header: 'FAQs',
   questions: [
@@ -11,19 +11,19 @@
       question: 'Am I suitable for GoGoEnterprise?',
     },
     {
-      answer: 'Yes, you can! If you think one vehicle may not be able to carry all your goods, you may request for more. Simply click the drop down menu and choose the number of vehicles you need under ?NUMBER OF VEHICLE?. You may also select ?share route? and ?split route? to optimise the delivery route. ',
+      answer: 'Yes, you can! If you think one vehicle may not be able to carry all your goods, you may request for more. Simply click the drop down menu and choose the number of vehicles you need under “NUMBER OF VEHICLE”. You may also select “share route” and “split route” to optimise the delivery route. ',
       question: 'Can I request more than one vehicle when I place an order? ',
     },
     {
       answer: [
-        "You may have multiple drop-off locations yet don?t know how to prioritise them. Route optimisation suggests the best route automatically to minimize the delivery time. ",
+        "You may have multiple drop-off locations yet don’t know how to prioritise them. Route optimisation suggests the best route automatically to minimize the delivery time. ",
         "",
         ""
       ],
       question: 'What does route optimisation mean? ',
     },
     {
-      answer: 'If you are unsure of the ideal vehicle type for your delivery, look for the ??? icon and learn more.  You could even state your stock details (e.g. volume, weight and size) in ?Goods and Service Setting? for drivers? better preparation and evaluation.',
+      answer: 'If you are unsure of the ideal vehicle type for your delivery, look for the “?” icon and learn more.  You could even state your stock details (e.g. volume, weight and size) in “Goods and Service Setting” for drivers’ better preparation and evaluation.',
       question: 'I\'m not sure if my goods exceed the weight or dimension limits?',
     },
     {
@@ -39,7 +39,7 @@
       question: '',
     },
     {
-      answer: 'Yes, you may enter your special requests in the ?Remarks? section.',
+      answer: 'Yes, you may enter your special requests in the “Remarks” section.',
       question: 'Can I leave special requests to the driver in advance?',
     },
     {
