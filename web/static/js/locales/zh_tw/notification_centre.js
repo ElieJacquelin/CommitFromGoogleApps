@@ -1,16 +1,16 @@
-{
+export default {
   drawerTitle: {
-    notification: '',
+    notification: '通知',
   },
   message: {
-    todayAt: '',
+    todayAt: (options) => `今天 @ <span className="event-time">${options.time}</span>`,
   },
   messagesCentre: {
-    loadMore: '',
-    prefs: '',
+    loadMore: '加載更多通知',
+    prefs: '通知偏好設定',
   },
   preferencesCentre: {
-    byEmail: '',
-    prefs: '',
+    byEmail: '發送通知到我的電子郵件',
+    prefs: '偏好設定',
   }
 }
